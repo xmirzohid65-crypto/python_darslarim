@@ -1,0 +1,3 @@
+Biz bugun darsimizda Fayllar bilan ishlashni o'tdik, faylni txt ko'rinishida ochib pythonda cahqirishni o'rgandim.
+Undan tashqari biz fayl ustida turli methodlarni qo'llashni o'rgandim, bunda turli methodlar bor ekan.
+Masalan: 'w' bu writ degani, 'r' read deganni anglatadi va undan tashqari 'w+', 'r+', 'a', 'a+' deganlarni ham tushinib
